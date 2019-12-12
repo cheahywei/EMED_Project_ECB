@@ -2,3 +2,5 @@
 hi
 bye
 
+add function A
+
