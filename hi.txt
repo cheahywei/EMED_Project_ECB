@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-hi.txt
-=======
-ECB_create_def_files.py  hi.txt
-<<<<<<< HEAD
->>>>>>> Initial dummy commit
-=======
+
+hi
 bye
->>>>>>> Update hi.txt
+
