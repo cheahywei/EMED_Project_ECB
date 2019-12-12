@@ -2,3 +2,5 @@
 hi
 bye
 
+continue function A
+add function B
