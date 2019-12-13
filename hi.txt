@@ -4,3 +4,5 @@ bye
 
 add function A
 
+continue function A
+add function B
